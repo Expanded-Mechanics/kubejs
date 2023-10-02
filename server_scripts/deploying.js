@@ -1,3 +1,4 @@
+// Deploy Recipes of the CREATE MOD
 ServerEvents.recipes((event) => {
   event.recipes.createDeploying(
     ["create:shadow_steel_casing"],

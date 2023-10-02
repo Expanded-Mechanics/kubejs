@@ -1,3 +1,4 @@
+// Mixing Recipes of the CREATE MOD
 ServerEvents.recipes((event) => {
   event.recipes
     .createMixing(

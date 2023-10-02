@@ -1,3 +1,5 @@
+// Modpack specific recipe removals
+
 ServerEvents.recipes((event) => {
 
 event.remove({

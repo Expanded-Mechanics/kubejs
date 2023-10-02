@@ -1,3 +1,4 @@
+// Mechanical Crafting Recipes of the CREATE MOD
 ServerEvents.recipes((event) => {
   // Piston
   event.recipes.createMechanicalCrafting(

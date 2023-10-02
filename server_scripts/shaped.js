@@ -1,3 +1,4 @@
+// Minecraft Shaped Crafting Recipes
 ServerEvents.recipes((event) => {
   // Supplementaries x Create
 

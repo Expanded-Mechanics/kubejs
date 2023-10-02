@@ -1,4 +1,7 @@
 // Startup script, 1.18.2
+
+// placeholder to create new type of blocks
+
 // const MaterialJS = Java.loadClass("dev.latvian.mods.kubejs.block.MaterialJS");
 // const Material = Java.loadClass("net.minecraft.world.level.material.Material");
 // const SoundType = Java.loadClass("net.minecraft.world.level.block.SoundType");
