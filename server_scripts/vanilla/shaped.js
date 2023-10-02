@@ -103,4 +103,12 @@ ServerEvents.recipes((event) => {
     p: "#minecraft:planks",
     a: "create:andesite_alloy",
   });
+  
+  // Slideshow
+  event.shaped("slide_show:projector", ["IaI", "aga", "IqI"], {
+    I: "minecraft:iron_ingot",
+    g: "#c:glass",
+    q: "minecraft:quartz",
+    a: "create:andesite_alloy",
+  });
 });
