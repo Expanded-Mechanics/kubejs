@@ -1,0 +1,19 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:cobbled_deepslate"
+    },
+    {
+      "fluid": "minecraft:lava",
+      "nbt": {},
+      "amount": 4050
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:basalt"
+    }
+  ],
+  "heatRequirement": "heated"
+}

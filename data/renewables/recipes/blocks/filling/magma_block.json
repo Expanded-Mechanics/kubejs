@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "fluid": "minecraft:lava",
+      "nbt": {},
+      "amount": 4050
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:magma_block"
+    }
+  ]
+}

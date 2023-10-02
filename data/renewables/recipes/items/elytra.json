@@ -1,0 +1,23 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [" ISI ", "PPNPP", "PP PP", "PP PP", " P P "],
+  "key": {
+    "P": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "I": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "S": {
+      "item": "minecraft:slime_block"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "minecraft:elytra",
+    "count": 1
+  },
+  "acceptMirrored": true
+}
