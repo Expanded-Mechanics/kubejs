@@ -1,0 +1,104 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+	  {
+		"tag": "minecraft:leaves"
+	  },
+	  {
+		"tag": "minecraft:leaves"
+	  },
+	  {
+		"tag": "minecraft:leaves"
+	  },
+	  {
+		"tag": "minecraft:leaves"
+	  },
+	  {
+		"tag": "minecraft:leaves"
+	  },
+	  {
+		"tag": "minecraft:leaves"
+	  },
+	  {
+		"tag": "minecraft:leaves"
+	  },
+	  {
+		"tag": "minecraft:leaves"
+	  },
+	  {
+		"tag": "minecraft:leaves"
+	  },
+	  {
+		"tag": "minecraft:leaves"
+	  },
+	  {
+		"tag": "minecraft:leaves"
+	  },
+	  {
+		"tag": "minecraft:leaves"
+	  },
+	  {
+		"tag": "minecraft:leaves"
+	  },
+	  {
+		"tag": "minecraft:leaves"
+	  },
+	  {
+		"tag": "minecraft:leaves"
+	  },
+	  {
+		"tag": "minecraft:leaves"
+	  },
+	  {
+		"tag": "minecraft:leaves"
+	  },
+	  {
+		"tag": "minecraft:leaves"
+	  },
+	  {
+		"tag": "minecraft:leaves"
+	  },
+	  {
+		"tag": "minecraft:leaves"
+	  },
+	  {
+		"tag": "minecraft:leaves"
+	  },
+	  {
+		"tag": "minecraft:leaves"
+	  },
+	  {
+		"tag": "minecraft:leaves"
+	  },
+	  {
+		"tag": "minecraft:leaves"
+	  },
+	  {
+		"tag": "minecraft:leaves"
+	  },
+	  {
+		"tag": "minecraft:leaves"
+	  },
+	  {
+		"tag": "minecraft:leaves"
+	  },
+	  {
+		"tag": "minecraft:leaves"
+	  },
+	  {
+		"tag": "minecraft:leaves"
+	  },
+	  {
+		"tag": "minecraft:leaves"
+	  },
+	  {
+		"tag": "minecraft:leaves"
+	  },
+	  {
+		"tag": "minecraft:leaves"
+	  }
+  ],
+  "results": [{
+    "item": "minecraft:dirt"
+  }]
+}

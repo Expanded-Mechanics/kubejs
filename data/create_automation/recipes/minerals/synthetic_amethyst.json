@@ -1,0 +1,28 @@
+{
+  "type": "create:compacting",
+  "heatRequirement": "superheated",
+  "ingredients": [
+	  {
+		"item": "minecraft:iron_nugget"
+	  },
+	  {
+		"item": "minecraft:iron_nugget"
+	  },
+	  {
+		"item": "minecraft:iron_nugget"
+	  },
+	  {
+		"item": "minecraft:quartz"
+	  },
+    {
+      "amount": 100,
+      "fluid": "minecraft:lava",
+      "nbt": {}
+    }
+  ],
+  "results": [{
+    "item": "minecraft:amethyst_shard",
+    "count": 1,
+	"chance": 0.33
+  }]
+}
