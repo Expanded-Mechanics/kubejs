@@ -36,4 +36,17 @@ ServerEvents.recipes((event) => {
       N: "minecraft:netherite_ingot",
     }
   );
+
+  // Creative World Shaper
+  event.recipes.createMechanicalCrafting(
+    "create:handheld_worldshaper",
+    ["NSAss", "Nr   "],
+    {
+      N: "minecraft:netherite_block",
+      S: "minecraft:nether_star",
+      s: "create:shadow_steel_casing",
+      A: "mcda:gemstone_purple",
+      r: "create:refined_radiance_casing",
+    }
+  );
 });
