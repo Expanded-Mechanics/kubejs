@@ -1,7 +1,7 @@
 // Modpack specific recipe removals
-
 ServerEvents.recipes((event) => {
 
+// shaped recipes removals
 event.remove({
   type: "minecraft:crafting_shaped",
   output: [

@@ -1,7 +1,6 @@
 // Minecraft Shaped Crafting Recipes
 ServerEvents.recipes((event) => {
   // Supplementaries x Create
-
   // Rope pulley
   event.shaped(Item.of("create:rope_pulley"), ["C", "R", "P"], {
     C: "create:andesite_casing",
