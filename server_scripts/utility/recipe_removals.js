@@ -25,4 +25,16 @@ event.remove({
   ],
 });
 
+ // milling removals
+ event.remove({
+  type: "create:milling",
+  output: ["create_so:crushed_diamonds"],
+});
+
+// crushing removals
+event.remove({
+  type: "create:crushing",
+  output: "createaddition:diamond_grit",
+});
+
 })
