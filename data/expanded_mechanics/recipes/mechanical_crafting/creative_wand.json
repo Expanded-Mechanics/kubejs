@@ -1,0 +1,23 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [" R ", "RSR", "RLR", "NLN", "NRN", " N "],
+
+  "key": {
+    "L": {
+      "item": "create:precision_mechanism"
+    },
+    "S": {
+      "item": "minecraft:nether_star"
+    },
+    "R": {
+      "item": "create:refined_radiance"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "constructionwand:infinity_wand"
+  },
+  "acceptMirrored": false
+}

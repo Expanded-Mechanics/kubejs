@@ -5,14 +5,14 @@ ServerEvents.recipes((event) => {
   event.shaped(Item.of("create:rope_pulley"), ["C", "R", "P"], {
     C: "create:andesite_casing",
     R: ["supplementaries:rope", "farmersdelight:rope"],
-    P: "#c:iron_plates",
+    P: "#forge:plates/iron",
   });
 
   // Elevator Pulley
   event.shaped(Item.of("create:elevator_pulley"), ["C", "R", "P"], {
     C: "create:brass_casing",
     R: ["supplementaries:rope", "farmersdelight:rope"],
-    P: "#c:iron_plates",
+    P: "#forge:plates/iron",
   });
 
   // Supplementaries Cog Block
@@ -58,49 +58,5 @@ ServerEvents.recipes((event) => {
     I: "create:brass_ingot",
     E: "minecraft:ender_pearl",
     R: "minecraft:redstone_block",
-  });
-
-  // Drawers
-
-  // Drawer Access Point
-  event.shaped("extended_drawers:access_point", ["cac", "aDa", "cac"], {
-    D: "#extended_drawers:drawers",
-    a: "create:andesite_alloy",
-    c: "#c:cobblestone",
-  });
-
-  // Compacting Drawer
-  event.shaped("extended_drawers:compacting_drawer", ["sPs", "CBC", "sPs"], {
-    C: "minecraft:chest",
-    P: "minecraft:piston",
-    s: "create:sturdy_sheet",
-    B: "create:brass_block",
-  });
-
-  // Drawer
-  event.shaped("extended_drawers:single_drawer", ["apa", "pCp", "apa"], {
-    C: "minecraft:chest",
-    p: "#minecraft:planks",
-    a: "create:andesite_alloy",
-  });
-
-  // Double Drawer
-  event.shaped("extended_drawers:double_drawer", ["apa", "CpC", "apa"], {
-    C: "minecraft:chest",
-    p: "#minecraft:planks",
-    a: "create:andesite_alloy",
-  });
-
-  // Quad Drawer
-  event.shaped("extended_drawers:quad_drawer", ["aCa", "CpC", "aCa"], {
-    C: "minecraft:chest",
-    p: "#minecraft:planks",
-    a: "create:andesite_alloy",
-  });
-
-  // Drawer Connector
-  event.shaped("extended_drawers:connector", ["apa", "ppp", "apa"], {
-    p: "#minecraft:planks",
-    a: "create:andesite_alloy",
   });
 });

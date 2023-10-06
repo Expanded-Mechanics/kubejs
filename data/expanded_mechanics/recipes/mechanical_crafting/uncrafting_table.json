@@ -1,0 +1,26 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": ["RLNLR", "NFSFN", "RLNLR"],
+
+  "key": {
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "S": {
+      "item": "minecraft:nether_star"
+    },
+    "F": {
+      "item": "ae2:fluix_block"
+    },
+    "L": {
+      "item": "create:precision_mechanism"
+    },
+    "R": {
+      "item": "create:refined_radiance"
+    }
+  },
+  "result": {
+    "item": "uncraftingtable76:uncraftingtable"
+  },
+  "acceptMirrored": false
+}

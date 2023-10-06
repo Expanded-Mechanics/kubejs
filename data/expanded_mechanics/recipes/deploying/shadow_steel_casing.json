@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "tag": "forge:stripped_logs"
+    },
+    {
+      "item": "create:shadow_steel"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:shadow_steel_casing"
+    }
+  ]
+}
